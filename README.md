@@ -80,7 +80,7 @@ You can double-click this JAR or run it via terminal.
 🎥 Demo Video
 
 Watch the full project demo here:
-👉 YouTube Video Presentation
+👉 [YouTube Video Presentation](https://youtu.be/09_nvZWtt8I)
 
 👨‍💻 Author
 
